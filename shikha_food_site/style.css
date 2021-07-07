@@ -1,0 +1,212 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+}
+.font{
+    color: tomato;
+}
+.left-content{
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+    height: 550px;
+    /* background-color: yellow; */
+    font-size: xx-large;
+}
+.left-content a{
+    text-decoration: none;
+    background-image: linear-gradient(#f7a36e,#fa5433);
+    padding: 20px 45px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px #f37056;
+    color: white;
+    font-size: 20px;
+
+}
+.left-content h1{
+    margin-top: 10%;
+    margin-left: 0%;
+    color: grey;
+}
+.right-content {
+    width: 44%;
+    height: 550px;
+    float: right;
+   
+    
+}
+.right-content img{
+    width:65%;
+    height: 550px;
+    /* background-color: violet; */
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.section{
+    height: 500px;
+}
+.background{
+    width: 100%;
+    height: 600px;
+    float: right;
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.person{
+    width: 20%;
+    height: 600px;
+    float: left;
+    margin-left: 18% ;
+}
+.second-content{
+    margin-left: 45% ;
+    margin-right: 20%;
+    margin-top: 140px;
+}
+.second-content h1{
+          font-size: 40px;
+}
+.second-content p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.second-content button{
+    text-decoration: none;
+    background-image: linear-gradient(#f7a36e,#fa5433);
+    padding: 20px 45px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px #f37056;
+    color: white;
+    font-size: 20px;
+    margin-top: 15%;
+}
+.recepi{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 4%;
+    float: left;
+}
+.recepi p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.title{
+    font-size: 35px;
+    font-weight: 700;
+    color: gray;
+    margin-left: 40%;
+    
+}
+.manu1{
+    width: 26%;
+    height: 650px;
+    margin-left: 6%;
+    float: left;
+    margin-top: 5%;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+    
+}
+.manu2{
+    width: 26%;
+    height: 650px;
+    margin-left: 5%;
+    float: left;
+    margin-top: 5%;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+}
+.manu3{
+    width: 26%;
+    height: 650px;
+    margin-left: 5%;
+    float: left;
+    margin-top: 5%;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+}
+.food-manu img{
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+    margin-top: 3%;
+    /* padding: 40px 40px; */
+    border-radius: 30px;
+}
+.food-manu header{
+    font-size: x-large;
+    margin-left: 4%;
+    margin-top: 3%;
+    font-weight: 700;
+}
+.food-manu p{
+    font-size: large;
+    margin-left: 4%;
+    color: grey;
+}
+.data1 {
+    width: 20%;
+    float: left;
+    font-size: xx-large;
+    margin-left: 26%;
+}
+.data2{
+    width: 20%;
+    float: left;
+    font-size: xx-large;
+}
+.data3{
+    width: 20%;
+    float: left;
+    font-size: xx-large;
+}
+.update{
+    margin-top: 7%;
+    height: 160px;
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px rgb(117 114 114);
+}
+.update p{
+    font-size: 17px;
+}
+.fotter{
+   
+   
+    width: 100%;
+    height: 150px;
+    float: left;
+    margin-top: 4%;
+    background-color:black;
+}
+.fotter h1{
+    font-size: 25px;
+    color: grey;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+.fotter p{
+    color: honeydew;
+    margin-left: 40%;
+}
+.futter1{
+    float: left;
+    color: orange;
+}
+
+
+
+
+
+
+
